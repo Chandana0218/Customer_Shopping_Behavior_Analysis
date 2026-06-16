@@ -177,7 +177,7 @@ An interactive dashboard was developed in Power BI to visualize business insight
 
 ### Dashboard Preview
 
-(Add dashboard screenshots here)
+![Customer Behavior Dashboard](dashboard.jpeg)
 
 ---
 
